@@ -1,4 +1,4 @@
-[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/front_end/hero_image-22813726def3da7ae43732aa40d92b8e2b10c1fdc67f80c4be5973393eba5f71.svg)
+[![MasterHead](https://cdn.w600.comps.canstockphoto.com/web-developer-cartoon-green-word-pictures_csp50277280.jpg)
 <h1 align="center">Hi 👋, I'm Tushar kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://st.depositphotos.com/1037238/4364/v/600/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg"
